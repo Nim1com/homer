@@ -12,7 +12,7 @@ Title, icons, links, colors, and services can be configured in the `config.yml` 
 # externalConfig: https://example.com/server-luci/config.yaml
 
 title: "App dashboard"
-subtitle: "Homer"
+subtitle: "Home"
 # documentTitle: "Welcome" # Customize the browser tab text
 logo: "assets/logo.png"
 # Alternatively a fa icon can be provided:
@@ -22,7 +22,7 @@ header: true # Set to false to hide the header
 # Optional: Different hotkey for search, defaults to "/"
 # hotkey:
 #   search: "Shift"
-footer: '<p>Created with <span class="has-text-danger">❤️</span> with <a href="https://bulma.io/">bulma</a>, <a href="https://vuejs.org/">vuejs</a> & <a href="https://fontawesome.com/">font awesome</a> // Fork me on <a href="https://github.com/bastienwirtz/homer"><i class="fab fa-github-alt"></i></a></p>' # set false if you want to hide it.
+footer: '<p>Created with <span class="has-text-danger">❤️</span> </p>' # set false if you want to hide it.
 
 columns: "3" # "auto" or number (must be a factor of 12: 1, 2, 3, 4, 6, 12)
 connectivityCheck: true # whether you want to display a message when the apps are not accessible anymore (VPN disconnected for example)
